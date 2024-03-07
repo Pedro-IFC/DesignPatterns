@@ -1,7 +1,5 @@
 package Produto;
 
-public class FabricaProduto {
-	public Produto gerarProduto() {
-		return new Desengordurante();
-	}
+public interface FabricaProduto {
+	public Produto gerarProduto();
 }
