@@ -42,6 +42,6 @@ AbstractFactory: [
 
   Package Veículo: uma abstract factory para tratar da família de veículos de uma marca
   
-  Package 
+  Package Inimigos: um pacote que permite manejar diferentes tipos de inimigos e suas respectivas armas
   
 ]
